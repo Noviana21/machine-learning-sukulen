@@ -1,0 +1,8 @@
+google drive dataset
+real:
+https://drive.google.com/drive/folders/1LGNRR7jsFprPE_svAhjRALMdMGO6x-8N?usp=sharing
+augmented:
+https://drive.google.com/drive/folders/1t-8bsFc7xlqIlyHRJESEHQlL7ysB6m9F?usp=sharing
+
+link GitHub:
+https://github.com/Noviana21/machine-learning-sukulen 
